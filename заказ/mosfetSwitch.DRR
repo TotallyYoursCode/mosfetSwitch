@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mosfetSwitch.PcbDoc   28.08.2015  10:25:39
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mosfetSwitch.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          36               78.16 mm (3.08 Inch)
+T2        1mm (39.37mil)           Round          8                29.05 mm (1.14 Inch)
+T3        1.4mm (55.118mil)        Round          2                5.00 mm (0.20 Inch)
+T4        3.6mm (141.732mil)       Round          2         NPTH   39.71 mm (1.56 Inch)
+---------------------------------------------------------------------------
+Totals                                            48               151.92 mm (5.98 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
